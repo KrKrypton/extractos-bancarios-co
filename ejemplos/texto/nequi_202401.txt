@@ -1,0 +1,17 @@
+Extracto de cuenta de ahorro de:
+MARIA FERNANDA LOPEZ GARCIA
+Número de cuenta de ahorro:  3001112233
+Estado de cuenta para el período de: 2024/01/01 a 2024/01/31
+Fecha del movimiento Descripción Valor Saldo
+28/01/2024 Para CARLOS ANDRES MARTINEZ $-50,000.00 $250,000.00
+25/01/2024 TRANSFIYA DE PEDRO RAMIREZ $120,000.00 $300,000.00
+20/01/2024 COMPRA PSE EN TIENDA EJEMPLO $-35,500.00 $180,000.00
+15/01/2024 Pago de Intereses $1.25 $215,500.00
+10/01/2024 De ANA SOFIA PEREZ $80,000.00 $215,498.75
+$80,001.25
+$170,500.00
+Saldo anterior
+Total abonos
+Total cargos
+Saldo actual
+$306,000.00

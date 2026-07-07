@@ -1,0 +1,20 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Datos personales (nunca subir al repositorio)
+Extractos_Bancarios/**/*.pdf
+salida/
+Maestro_Movimientos_Bancarios.xlsx
+*.xlsx
+
+# IDE / herramientas locales
+.cursor/
+texto_temporal.txt
+datos_finales.json
+
+# Sistema
+.DS_Store
+Thumbs.db
